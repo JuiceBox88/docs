@@ -1,3 +1,4 @@
+[CtxLog_Edge_2021-10-19-12-56-00-0600.csv](https://github.com/github/docs/files/7575071/CtxLog_Edge_2021-10-19-12-56-00-0600.csv)
 ---
 title: Managing subscriptions and notifications on GitHub
 intro: 'You can specify how to receive notifications, the repositories you are interested in, and the types of activity you want to hear about.'
